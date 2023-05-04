@@ -1,6 +1,6 @@
 ---
 title: Network analysis
-prev: data-description
+prev: Data_processing
 next: text-analysis
 ---
 
